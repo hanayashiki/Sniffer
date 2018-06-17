@@ -1,0 +1,2 @@
+1. understand the code
+2. maybe implement dns ¸ã²»¶® / http + / ipv6 ?
